@@ -1,0 +1,10 @@
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\bin\Debug\SEMAFOROWW.exe.config
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\bin\Debug\SEMAFOROWW.exe
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\bin\Debug\SEMAFOROWW.pdb
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\obj\Debug\SEMAFOROWW.csprojResolveAssemblyReference.cache
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\obj\Debug\SEMAFOROWW.Form1.resources
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\obj\Debug\SEMAFOROWW.Properties.Resources.resources
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\obj\Debug\SEMAFOROWW.csproj.GenerateResource.Cache
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\obj\Debug\SEMAFOROWW.csproj.CoreCompileInputs.cache
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\obj\Debug\SEMAFOROWW.exe
+C:\Users\Maezgaliz\Desktop\Programacion Orientada a Objetos\Proyecto Final\SEMAFOR\SEMAFOROWW\SEMAFOROWW\obj\Debug\SEMAFOROWW.pdb
